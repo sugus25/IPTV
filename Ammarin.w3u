@@ -1,0 +1,15 @@
+{
+  "name": "ทีวี ออนไลน์",
+  "author": "ammarin tv",
+  "url": "",
+  "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png",
+  "stations": [
+    {
+      "name": "",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=5b335b61bf6aee16d8c33382",
+      "referer": "https://ais-vidnt.com/"
+    },
+    null
+  ]
+}
